@@ -1,0 +1,25 @@
+{
+  "name": "Asaad Saad",
+  "priorities": [
+    "JavaScript Guru",
+    "Web"
+  ],
+  "work": [
+    "@mum",
+    "@seiso"
+  ],
+  "twitter": "@asaadsaad",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Angular",
+    "Node",
+    "MongoDB"
+  ],
+  "titles": [
+    "Assistant Professor of Computer Science"
+  ]
+}
